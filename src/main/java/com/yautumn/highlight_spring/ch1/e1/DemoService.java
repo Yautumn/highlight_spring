@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class DemoService {
 	
-	@Value("ÆäËûÀàµÄÊôĞÔ")
+	@Value("å…¶ä»–ç±»çš„å±æ€§")
 	private String another;
 
 	public String getAnother() {
